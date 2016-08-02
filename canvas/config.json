@@ -1,0 +1,5 @@
+{
+    "title": "Canvas",
+    "initialize": "./initialize",
+    "update": "./update"
+}

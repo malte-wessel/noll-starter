@@ -1,0 +1,22 @@
+{
+    "extends": "eslint-config-airbnb",
+    "parserOptions": {
+        "ecmaFeatures": {
+            "experimentalObjectRestSpread": true
+        }
+    },
+    "env": {
+        "browser": true,
+        "node": true
+    },
+    "rules": {
+        "comma-dangle": 0,
+        "indent": 0,
+        "max-len": 0,
+        "valid-jsdoc": 2,
+        "consistent-return": 0,
+        "no-param-reassign": 0,
+        "no-restricted-syntax": 0,
+        "import/no-unresolved": 0
+    }
+}

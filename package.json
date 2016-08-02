@@ -1,0 +1,37 @@
+{
+  "name": "noll-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/noll",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Malte Wessel",
+  "license": "MIT",
+  "keywords": [
+    "noll",
+    "canvas",
+    "webgl",
+    "threejs",
+    "glsl",
+    "glslify",
+    "art"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/malte-wessel/noll-starter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/malte-wessel/noll-starter/issues"
+  },
+  "homepage": "https://github.com/malte-wessel/noll-starter",
+  "dependencies": {
+    "eslint": "^2.9.0",
+    "eslint-config-airbnb": "9.0.1",
+    "eslint-plugin-import": "^1.7.0",
+    "eslint-plugin-jsx-a11y": "^1.2.0",
+    "eslint-plugin-react": "^5.0.1",
+    "noll": "^0.1.0"
+  }
+}
