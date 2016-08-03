@@ -1,5 +1,0 @@
-{
-    "title": "Example experiment",
-    "initialize": "./initialize",
-    "update": "./update"
-}

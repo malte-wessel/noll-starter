@@ -1,7 +1,7 @@
 {
   "name": "noll-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "A starter project for noll experiments",
   "main": "index.js",
   "scripts": {
     "start": "./node_modules/.bin/noll",
@@ -32,6 +32,8 @@
     "eslint-plugin-import": "^1.7.0",
     "eslint-plugin-jsx-a11y": "^1.2.0",
     "eslint-plugin-react": "^5.0.1",
-    "noll": "^0.1.0"
+    "d3-quadtree": "^1.0.0",
+    "gl-vec2": "^1.0.0",
+    "noll": "^0.1.4"
   }
 }
