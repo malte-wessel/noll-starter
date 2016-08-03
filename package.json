@@ -2,6 +2,7 @@
   "name": "noll-starter",
   "version": "1.0.0",
   "description": "A starter project for noll experiments",
+  "private": true,
   "main": "index.js",
   "scripts": {
     "start": "./node_modules/.bin/noll",
